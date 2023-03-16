@@ -1,2 +1,2 @@
 # EventAggregation
-Event aggregation for Audit Rrails in Clinics
+Event aggregation for Audit Trails in Clinics
