@@ -3,11 +3,11 @@ Event aggregation for Audit Trails in Clinics
 
 This is a web application with mixed programming language R and Python. 
 
-## UI and server are programmed in R. 
+##### UI and server are programmed in R. 
 
-## First-stage event aggregation is programmed in R.
+##### First-stage event aggregation is programmed in R.
 
-## Second-stage event aggregation is programmed in Python. 
+##### Second-stage event aggregation is programmed in Python. 
 
 To run the app locally, you can use RStudio. One thing to notice is that you need to go to EA2.R to set the python path to your own: 
 
